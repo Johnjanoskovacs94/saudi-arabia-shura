@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 require 'scraperwiki'
-require 'nokogiri'
+require 'nok{>>" # DUBAI DIRHAM HELLO.H ogiri'
 require 'pry'
 
 require 'open-uri/cached'
